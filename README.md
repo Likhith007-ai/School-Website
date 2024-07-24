@@ -8,10 +8,6 @@ Welcome to the Springdale Public School website! This is a React-based web appli
 - [Features](#features)
 - [Technologies Used](#technologies-used)
 - [Installation](#installation)
-- [Usage](#usage)
-- [Folder Structure](#folder-structure)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Project Overview
 
